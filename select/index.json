@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Camelia",
+  "base_artist": "Mili",
+  "createdAt": "2026-02-19T12:26:24.405736Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Camelia",
+      "artist": "Manolo Muñoz",
+      "has_synced": true,
+      "path": "select/01_Camelia_Manolo_Muñoz.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ya Encontraron A Camelia",
+      "artist": "Los Tigres Del Norte",
+      "has_synced": true,
+      "path": "select/02_Ya_Encontraron_A_Camelia_Los_Tigres_Del_Norte.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Camelia",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/03_Camelia_Mili.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Camelia",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/04_Camelia_Mili.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Holidays Are Coming (from the Coca-Cola Campaign) (feat. Camélia Jordana & Namika)",
+      "artist": "The Kingdom Choir",
+      "has_synced": true,
+      "path": "select/05_Holidays_Are_Coming_(from_the_Coca-Cola_Campaign)_(feat._Camélia_Jordana_&_Namik_The_Kingdom_Choir.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Camelia",
+      "artist": "Work of Art",
+      "has_synced": true,
+      "path": "select/06_Camelia_Work_of_Art.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Camelia (Vocal+Piano Unplugged)",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/07_Camelia_(Vocal+Piano_Unplugged)_Mili.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "My Sweet Camelia",
+      "artist": "Early James",
+      "has_synced": true,
+      "path": "select/08_My_Sweet_Camelia_Early_James.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "El Hijo De Camelia",
+      "artist": "Los Tigres Del Norte",
+      "has_synced": true,
+      "path": "select/09_El_Hijo_De_Camelia_Los_Tigres_Del_Norte.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ya Encontraron A Camelia (Album Version)",
+      "artist": "Los Tigres Del Norte",
+      "has_synced": true,
+      "path": "select/10_Ya_Encontraron_A_Camelia_(Album_Version)_Los_Tigres_Del_Norte.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Camelia",
+      "artist": "Mili",
+      "has_synced": false,
+      "path": "select/pl_01_Camelia_Mili.txt"
+    }
+  ]
+}
